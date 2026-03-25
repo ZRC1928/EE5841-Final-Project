@@ -1,4 +1,5 @@
 Project Overview:
+
 In our project, we use a machine learning approach to predicting the Water Quality Index for the Great Lakes. We train our models on actual Great Lakes water data obtained from:
 https://datastream.org/en-ca/dataset/85297d0c-4c71-422b-b213-8f1bde19b00e
 
