@@ -12,3 +12,5 @@ Instructions:
 - Download WQI_Project.ipynb
 - Download the dataset from the link under Project Overview into a Google Drive
 - Run the jupyter notebook in Google Colab, giving Google Colab permission to access the Google Drive
+
+Note: The PDF Report breaks some of the links in the references list, so the "Final Project - Working Citation Links" file contains all working links leading to our sources.
